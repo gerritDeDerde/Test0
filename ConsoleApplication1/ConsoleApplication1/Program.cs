@@ -20,9 +20,6 @@ namespace ConsoleApplication1
              geen
 
             not this
-            2
-            3
-
              */
         }
     }
