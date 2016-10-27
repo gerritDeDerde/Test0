@@ -4,3 +4,6 @@ C:\Projects\Test\GithubTest0\ConsoleApplication1\Test0\ConsoleApplication1\Conso
 C:\Projects\Test\GithubTest0\ConsoleApplication1\Test0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Projects\Test\GithubTest0\ConsoleApplication1\Test0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Projects\Test\GithubTest0\ConsoleApplication1\Test0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\projects\Test\GithubTest\Test0\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\projects\Test\GithubTest\Test0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\projects\Test\GithubTest\Test0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
