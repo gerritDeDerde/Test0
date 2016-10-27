@@ -14,6 +14,7 @@ namespace ConsoleApplication1
              test4 lt555
              r
              r
+             koe
              r
              r
 
