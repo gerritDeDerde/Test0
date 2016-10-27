@@ -18,8 +18,6 @@ namespace ConsoleApplication1
              r
              r
              geen
-
-            not this
              */
         }
     }
